@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_CardReader/templates *
+recursive-include octoprint_CardReader/translations *
+recursive-include octoprint_CardReader/static *
